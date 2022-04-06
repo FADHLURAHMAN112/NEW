@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://telegra.ph/file/8d2ca126a9b3532959b67.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 </p>
 <p align="center">
-<a href="#"><img title="RAMDANI BOTZ VERSI 17.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 17.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="FDLMODZZ BOT" src="https://img.shields.io/badge/Ramdani Botz Versi 17.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a>
